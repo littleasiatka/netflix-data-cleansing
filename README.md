@@ -38,7 +38,6 @@ data-cleansing/
 │   └── netflix_titles.csv
 ├── notebooks/
 │   └── netflix_eda.ipynb
-├── venv
 ├── README.md
 └── requirements.txt 
 ```
